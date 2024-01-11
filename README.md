@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alvaro Galhardo</h1>
 <h3 align="center">A passionate frontend developer from Brazil 🇧🇷 !</h3>
 
-- 🔭 I’m currently working on **Accon.Tech**
+- 🔭 I’m currently working on **Accon Tech**
 
 - 🌱 I’m currently learning **SAP ERPs, .NET and C#**
 
