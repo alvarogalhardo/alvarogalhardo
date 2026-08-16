@@ -1,5 +1,5 @@
 <h1 align="center">Alvaro Galhardo</h1>
-<h3 align="center">Full-stack developer based in Brazil 🇧🇷</h3>
+<h3 align="center">Software engineer based in Brazil 🇧🇷</h3>
 
 - 💼 Previously built software at **Pago**
 - 📚 Right now I'm deep in distributed systems, algorithms, and domain-driven design — working through *Designing Data-Intensive Applications* and *CLRS* as my anchors for those two
