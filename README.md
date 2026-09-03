@@ -1,11 +1,12 @@
 <h1 align="center">Alvaro Galhardo</h1>
 <h3 align="center">Software engineer based in Brazil 🇧🇷</h3>
 
-- 💼 Previously built software at **Pago**
-- 📚 Right now I'm deep in distributed systems, algorithms, and domain-driven design — working through *Designing Data-Intensive Applications* and *CLRS* as my anchors for those two
-- 🛠️ Day to day I live in Node and TypeScript, with C# and .NET as a second home
-- 🤝 Open to new opportunities — feel free to reach out
-- 📫 **alvaromgfernandes@gmail.com**
+- 💼 Previously built software at **Pago**;
+- 📚 Right now I'm deep in distributed systems, algorithms, and domain-driven design — working through *Designing Data-Intensive Applications* and *CLRS* as my anchors for those two;
+- 🛠️ Confortable working with Node/TypeScrit and C#/.NET;
+- 🧠 Very interested in learning Go and Java/Kotlin;
+- 🤝 Open to new opportunities — feel free to reach out;
+- 📫 **alvaromgfernandes@gmail.com**;
 
 <h3 align="left">Connect:</h3>
 <p align="left">
